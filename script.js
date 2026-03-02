@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
 
-  const startMessage = "Click here to see the motion baby";
+  const startMessage = "Click here to my website!";
   let startTextContent = '';
   let startIndex = 0;
   let startCursorVisible = true;
@@ -236,8 +236,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   const bioMessages = [
-    "Fu*k Guns.lol & Fakecrime.bio got banned too often, so I created my own.",
-    "\"Hello, World!\""
+    "Hello my name is Sirramenboi!!",
+    "\"I like to code :3\""
   ];
   let bioText = '';
   let bioIndex = 0;
@@ -668,4 +668,5 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   typeWriterStart();
+
 });
